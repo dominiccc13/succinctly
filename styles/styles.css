@@ -1,0 +1,31 @@
+    /* Title Font: Raleway Light 300 */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+    /* Body Font: Roboto Regular 400 */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+
+    /* Header */
+header {
+    border: 2px solid red;
+    background-color: #BDADEA;
+}
+
+header, h1 {
+    font-family: 'Raleway Light 300', sans-serif;
+}
+
+header, h1, a {
+    text-decoration: none;
+}
+
+
+
+
+
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
