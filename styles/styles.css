@@ -111,45 +111,31 @@ main {
 }
 
 .sidebar-img1 {
-    grid-column: 2/3;
-    grid-row: 2/3;
     width: 100%;
+    grid-column: 2/3;
 }
 
 .sidebar-img2 {
-    grid-column: 2/3;
-    grid-row: 3/4;
     width: 100%;
 }
 
 .sidebar-img3 {
-    grid-column: 2/3;
-    grid-row: 4/5;
     width: 100%;
 }
 
 .article1 {
-    grid-column: 3/4;
+    grid-column: 2/3;
     grid-row: 2/3;
-
-    margin-left: 7.5%;
-    color: blue;
 }
 
 .article2 {
-    grid-column: 3/4;
+    grid-column: 2/3;
     grid-row: 3/4;
-
-    margin-left: 7.5%;
-    color: blue;
 }
 
 .article3 {
-    grid-column: 3/4;
+    grid-column: 2/3;
     grid-row: 4/5;
-
-    margin-left: 7.5%;
-    color: blue;
 }
 
 
